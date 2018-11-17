@@ -1,0 +1,2 @@
+
+$(".ice-cream-list").append("<li class='ice-cream-flavor'>"+iceCreamFlavors[0]+"</li>").append("<li class='ice-cream-flavor'>"+iceCreamFlavors[1]+"</li>").append("<li class='ice-cream-flavor'>"+iceCreamFlavors[2]+"</li>").append("<li class='ice-cream-flavor'>"+iceCreamFlavors[3]+"</li>").append("<li class='ice-cream-flavor'>"+iceCreamFlavors[4]+"</li>").append("<li class='ice-cream-flavor'>"+iceCreamFlavors[5]+"</li>").append("<li class='ice-cream-flavor'>"+iceCreamFlavors[6]+"</li>");
